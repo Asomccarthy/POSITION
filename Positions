@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract POSITION{
+    string public name = "PSTON";
+    string public symbol = "PSTN";
+    uint256 public totalSupply = 80000000; // 80 million tokens
